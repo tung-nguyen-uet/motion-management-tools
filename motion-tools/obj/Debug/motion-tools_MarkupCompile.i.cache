@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\tungnb\Aniage\motion-tools\motion-tools\obj\Debug\
+D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\
 motion_tools
 none
 false
 DEBUG;TRACE
-D:\tungnb\Aniage\motion-tools\motion-tools\App.xaml
+D:\tungnb\Aniage\motion-management-tools\motion-tools\App.xaml
 11151548125
 
 9311805671
 13738642453
 MainWindow.xaml;
 
-True
+False
 

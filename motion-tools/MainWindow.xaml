@@ -10,8 +10,9 @@
 		<Button Content="Đánh dấu chuyển động" HorizontalAlignment="Left" Margin="53,143,0,0" VerticalAlignment="Top" Width="141" Click="objTracking_Click"/>
 		<Button Content="Theo dấu chuyển động" HorizontalAlignment="Left" Margin="304,143,0,0" VerticalAlignment="Top" Width="141" Click="objTracking_Click"/>
 		<Button Content="Key Frame" HorizontalAlignment="Left" Margin="53,230,0,0" VerticalAlignment="Top" Width="141" Click="objTracking_Click"/>
-		<Button Content="Ấn thử" HorizontalAlignment="Center" Margin="0,96,0,0" VerticalAlignment="Top" Width="75" Click="tryit_Click"/>
-		<TextBox Name="textBox1" HorizontalAlignment="Center" Height="23" Margin="0	,47,0,0" TextWrapping="Wrap" Text="Ấn cái nút bên dưới" VerticalAlignment="Top" Width="210"/>
+        <Button Content="Thoát" HorizontalAlignment="Left" Margin="304,230,0,0" VerticalAlignment="Top" Width="141" Click="exit_Click"/>
+        <Image Source="logo.png" HorizontalAlignment="Center" Height="100" Margin="0,0,0,0" VerticalAlignment="Top" Width="100"/>
 
-	</Grid>
+
+    </Grid>
 </Window>

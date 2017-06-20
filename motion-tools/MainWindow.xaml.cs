@@ -34,7 +34,12 @@ namespace motion_tools
 
 		private void tryit_Click(object sender, RoutedEventArgs e)
 		{
-			textBox1.Text = "Chào mừng em đến với cái ứng dụng này";
+		
 		}
-	}
+
+        private void exit_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+    }
 }
