@@ -25,13 +25,12 @@ namespace motion_tools
 			InitializeComponent();
 		}
 
-		private void objTracking_Click(object sender, RoutedEventArgs e)
-		{
-			Window win2 = new Window();
-			win2.Show();
-			this.Close();
-		}
+        private void about_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
 
+<<<<<<< HEAD
 		private void tryit_Click(object sender, RoutedEventArgs e)
 		{
 		
@@ -41,5 +40,19 @@ namespace motion_tools
         {
             this.Close();
         }
+=======
+        private void keyframe_Click(object sender, RoutedEventArgs e)
+        {
+            keyframewin win1 = new keyframewin();
+            win1.Show();
+        }
+
+        private void motiontrack_Click(object sender, RoutedEventArgs e)
+        {
+            motiontrackwin win2 = new motiontrackwin();
+            win2.Show();
+        }
+
+>>>>>>> edit-MINH
     }
 }

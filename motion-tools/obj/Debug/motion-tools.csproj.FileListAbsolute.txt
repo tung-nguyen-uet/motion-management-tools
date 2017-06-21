@@ -26,3 +26,28 @@ D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\motion_tools.Pro
 D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.csproj.GenerateResource.Cache
 D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.exe
 D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.pdb
+<<<<<<< HEAD
+=======
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\bin\Debug\motion-tools.exe.config
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\bin\Debug\motion-tools.exe
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\bin\Debug\motion-tools.pdb
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.csprojResolveAssemblyReference.cache
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\MainWindow.g.cs
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\App.g.cs
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools_MarkupCompile.cache
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools_MarkupCompile.lref
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\MainWindow.baml
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.g.resources
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion_tools.Properties.Resources.resources
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.csproj.GenerateResource.Cache
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.exe
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.pdb
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\keyframewin.g.cs
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motiontrackwin.g.cs
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\keyframewin.baml
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motiontrackwin.baml
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\bin\Debug\motion-tools.exe.manifest
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\bin\Debug\motion-tools.application
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.exe.manifest
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\motion-tools.application
+>>>>>>> edit-MINH

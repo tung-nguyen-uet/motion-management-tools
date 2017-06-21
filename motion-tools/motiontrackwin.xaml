@@ -1,0 +1,17 @@
+﻿<Window x:Class="motion_tools.motiontrackwin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:motion_tools"
+        mc:Ignorable="d"
+        Title="Motion Tracking" Height="300" Width="450" ResizeMode="CanMinimize">
+    <Grid>
+        <Button Content="Track" HorizontalAlignment="Left" Height="94" Margin="136,107,0,0" VerticalAlignment="Top" Width="178" Click="Button_Click"/>
+        <TextBlock Visibility="Hidden" Name="textblock1"  HorizontalAlignment="Left" Height="22" Margin="13,67,0,0" TextWrapping="Wrap" Text="Choose video :" VerticalAlignment="Top" Width="86"/>
+        <TextBox Visibility="Hidden" Name="textbox1" HorizontalAlignment="Left" Height="20" Margin="99,67,0,0" TextWrapping="Wrap" Text="type path" VerticalAlignment="Top" Width="250" Foreground="LightGray" TextChanged="textbox1_TextChanged"/>
+        <Button Visibility="Hidden" Name="selectbut"  Content="Select" HorizontalAlignment="Left" Height="20" Margin="354,67,0,0" VerticalAlignment="Top" Width="70" Click="Button_Click_2"/>
+        <RadioButton Name="cbvid" Content="Video" HorizontalAlignment="Left" Height="21" Margin="65,36,0,0" VerticalAlignment="Top" Width="91" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+        <RadioButton Name="cbcam" Content="Camera" HorizontalAlignment="Left" Height="21" Margin="194,36,0,0" VerticalAlignment="Top" Width="92" Checked="CheckBox_Checked_1"/>
+    </Grid>
+</Window>

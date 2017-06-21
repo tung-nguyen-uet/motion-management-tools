@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 D:\tungnb\Aniage\motion-management-tools\motion-tools\obj\Debug\
+=======
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\
+>>>>>>> edit-MINH
 motion_tools
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 D:\tungnb\Aniage\motion-management-tools\motion-tools\App.xaml
 11151548125
+=======
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\App.xaml
+3-865881483
+>>>>>>> edit-MINH
 
-5-2017746502
+7501065970
 13738642453
-MainWindow.xaml;
+keyframewin.xaml;MainWindow.xaml;motiontrackwin.xaml;
 
 False
 

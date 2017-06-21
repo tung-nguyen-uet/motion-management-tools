@@ -11,6 +11,34 @@
 		<Button Content="Theo dấu chuyển động" HorizontalAlignment="Left" Margin="304,143,0,0" VerticalAlignment="Top" Width="141" Click="objTracking_Click"/>
 		<Button Content="Key Frame" HorizontalAlignment="Left" Margin="53,230,0,0" VerticalAlignment="Top" Width="141" Click="objTracking_Click"/>
         <Button Content="Thoát" HorizontalAlignment="Left" Margin="304,230,0,0" VerticalAlignment="Top" Width="141" Click="exit_Click"/>
+=======
+        Title="Motion Tools" Height="400" Width="525" ResizeMode="CanMinimize">
+    <Grid>
+        <Button BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" Margin="130,108,0,0" VerticalAlignment="Top" Click="keyframe_Click">
+            <StackPanel>
+                <Image Source="keyframelogo.png" Height="64" Width="64"/>
+                <Label Content="Keyframe" HorizontalAlignment="Center" Width="60"/>
+            </StackPanel>
+        </Button>
+        <Button BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" Margin="332,108,0,0" VerticalAlignment="Top" Click="motiontrack_Click">
+            <StackPanel>
+                <Image Source="motiontracklogo.png" Height="64" Width="64"/>
+                <Label Content=" Motion&#xA;Tracking" HorizontalAlignment="Center" Width="55"/>
+            </StackPanel>
+        </Button>
+        <Button BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" Margin="120,242,0,0" VerticalAlignment="Top">
+            <StackPanel>
+                <Image Source="bonelogo.png" Height="64" Width="64"/>
+                <Label Content="   Trich xuat&#xA;khung xuong" HorizontalAlignment="Center" Width="80"/>
+            </StackPanel>
+        </Button>
+        <Button BorderThickness="0" Background="Transparent" HorizontalAlignment="Left" Margin="332,245,0,0" VerticalAlignment="Top" Click="about_Click">
+            <StackPanel>
+                <Image Source="aboutlogo.png" Height="64" Width="64"/>
+                <Label Content="About" HorizontalAlignment="Center" Width="45"/>
+            </StackPanel>
+        </Button>
+>>>>>>> edit-MINH
         <Image Source="logo.png" HorizontalAlignment="Center" Height="100" Margin="0,0,0,0" VerticalAlignment="Top" Width="100"/>
 
 
