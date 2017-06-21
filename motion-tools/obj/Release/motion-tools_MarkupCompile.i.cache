@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Debug\
+C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\obj\Release\
 motion_tools
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\PhucMinh\Desktop\Aniage\motion-management-tools\motion-tools\App.xaml
 3-865881483
 
-7501065970
+111523087022
 13738642453
 keyframewin.xaml;MainWindow.xaml;motiontrackwin.xaml;
 
-False
+True
 
