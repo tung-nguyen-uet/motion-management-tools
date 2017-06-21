@@ -5,55 +5,6 @@ Created on Fri Jun 16 09:43:29 2017
 @author: PhucMinh
 """
 
-#import cv2
-#import numpy as np
-#drawing = False # true if mouse is pressed
-#mode = True # if True, draw rectangle. Press 'm' to toggle to curve
-#ix,iy = -1,-1
-## mouse callback function
-#def draw_circle(event,x,y,flags,param):
-#    global ix,iy,drawing,mode
-#    if event == cv2.EVENT_LBUTTONDOWN:
-#        drawing = True
-#        ix,iy = x,y
-#        cv2.imshow('image',img)
-#    elif event == cv2.EVENT_MOUSEMOVE:
-#        if drawing == True:
-#            if mode == True:
-#                imgcopy=np.copy(img)
-#                cv2.rectangle(imgcopy,(ix,iy),(x,y),(0,255,0),3)
-#                cv2.imshow('image',imgcopy)
-#            else:
-#                imgcopy=np.copy(img)
-#                cv2.circle(imgcopy,(x,y),5,(0,0,255),-1)
-#                cv2.imshow('image',imgcopy)
-#    elif event == cv2.EVENT_LBUTTONUP:
-#        drawing = False
-#        if mode == True:
-#            imgcopy=np.copy(img)
-#            cv2.rectangle(imgcopy,(ix,iy),(x,y),(0,255,0),3)
-#            cv2.imshow('image',imgcopy)
-#        else:
-#            imgcopy=np.copy(img)
-#            cv2.circle(imgcopy,(x,y),5,(0,0,255),-1)
-#            cv2.imshow('image',imgcopy)
-#            
-#img = np.zeros((512,512,3), np.uint8)
-#imgorg = np.copy(img)
-#cv2.namedWindow('image')
-#cv2.setMouseCallback('image',draw_circle)
-#cv2.imshow('image',img)
-#while(1):
-#    k = cv2.waitKey(1) & 0xFF
-#    if k == ord('m'):
-#        mode = not mode
-#    elif k == 27:
-#        break
-#cv2.destroyAllWindows()
-#
-#events = [i for i in dir(cv2) if 'EVENT' in i]
-#print( events )
-
 import cv2
 import numpy as np
 import time
